@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=cardsInput
+comment0.target=BragHand(Card[])
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BragHand\r\n
+comment1.params=
+comment1.target=void\ print()
+numComments=2
